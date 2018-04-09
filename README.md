@@ -1,7 +1,6 @@
 # uzakel
 Verimerkezleri Arası IP Engelleme Sistemi
 
-
 ![network](uzakel-draw.png)
 
 ## Amaç
@@ -23,3 +22,11 @@ AS Numarasına sahip networkler sadece kendi ağına ait IP adresleri için null
 Tüm uygulamalar açık kaynak kodlu şekilde sunulur.
 
 ## Geliştirme 
+
+- [ ] Private Network
+- [ ] Autodiscover
+- [ ] Access Control List
+- [ ] Packet Capture
+- [ ] Execute Trigger
+- [ ] RIPE Whois
+- [ ] Rate Limiting
